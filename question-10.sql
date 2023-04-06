@@ -1,0 +1,1 @@
+INSERT INTO persons (first_name, last_name, email, gender, title, age) VALUES ('Bonnie', 'Chen', 'bonche22@uw.edu', 'Female', 'Ms', 19);
